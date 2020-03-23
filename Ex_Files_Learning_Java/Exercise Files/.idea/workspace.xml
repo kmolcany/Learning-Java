@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f969ccb-80a4-4135-8e6c-a1d8a206d653" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Exercise Files.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 01/01_05/begin/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 01/01_05/end/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 01/01_05/end/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_02/.idea/02_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_02/begin/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_02/begin/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_02/end/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_02/end/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_02/end/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_03/begin/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_03/begin/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_03/begin/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_03/end/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_03/end/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_03/end/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_04/begin/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_04/begin/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_04/begin/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_04/end/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_04/end/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_04/end/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_05/begin/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_05/begin/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_05/begin/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_05/end/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_05/end/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_05/end/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_06/begin/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_06/begin/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_06/begin/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_06/end/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_06/end/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_06/end/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_07/begin/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_07/begin/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_07/begin/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_07/end/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_07/end/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_07/end/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_08/begin/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_08/begin/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_08/begin/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_08/end/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_08/end/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_08/end/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_10/end/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_10/end/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_10/end/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 02/02_10/end/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_02/begin/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_02/begin/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_02/end/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_02/end/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_03/begin/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_03/begin/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_03/end/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_03/end/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_04/begin/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_04/begin/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_04/end/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_04/end/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_05/begin/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_05/begin/src/Coin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_05/begin/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_05/end/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_05/end/src/Coin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_05/end/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_06/begin/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_06/begin/src/Coin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_06/begin/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_06/end/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_06/end/src/Coin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_06/end/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_08/begin/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_08/begin/src/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_08/begin/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_08/end/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_08/end/src/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 03/03_08/end/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_02/begin/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_02/begin/src/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_02/begin/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_02/end/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_02/end/src/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_02/end/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_03/begin/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_03/begin/src/Cricket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_03/begin/src/Insect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_03/begin/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_03/begin/src/Spider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_03/end/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_03/end/src/Cricket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_03/end/src/Insect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_03/end/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_03/end/src/Spider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_04/begin/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_04/begin/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_04/begin/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_04/begin/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_04/begin/src/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_04/end/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_04/end/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_04/end/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_04/end/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_04/end/src/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_06/begin/.idea/begin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_06/begin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_06/begin/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_06/begin/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_06/begin/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_06/end/Desktop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_06/end/src/Answerable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_06/end/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 04/04_06/end/src/Predicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Learning Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/Learning Java/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/Learning Java/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/Learning Java/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1ZRMnWkBFFi0WTKweeimfMNwimJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f969ccb-80a4-4135-8e6c-a1d8a206d653" name="Default Changelist" comment="" />
+      <created>1584797620951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584797620951</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="808" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584878194688">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1920.30.1680.1010/0.0.1920.1040@0.0.1920.1040" timestamp="1584878194688" />
+    <state x="2630" y="447" key="Github.ShareDialog" timestamp="1584994281316">
+      <screen x="1920" y="30" width="1680" height="1010" />
+    </state>
+    <state x="2630" y="447" key="Github.ShareDialog/1920.30.1680.1010/0.0.1920.1040@1920.30.1680.1010" timestamp="1584994281316" />
+  </component>
+</project>
